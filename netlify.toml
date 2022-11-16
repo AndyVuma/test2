@@ -1,0 +1,7 @@
+
+[build]
+ publish="assets"
+publish="index.html"
+publish="Audio"
+publish="img"
+publish="java"
